@@ -1,4 +1,4 @@
 # Tarea2 Ejercicios pseudocodigo
 ## Link del repositorio :
 
-gh repo clone KSanchezNazate/Tarea2Ejerciciospseudocodigo
+https://github.com/KSanchezNazate/Tarea2Ejerciciospseudocodigo.git
